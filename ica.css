@@ -1,0 +1,43 @@
+    body {
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.5;
+      max-width: 1000px; /* Adjust this value as needed */
+      font-family: Arial, sans-serif;
+    }
+
+    .header {
+      background-color: #E9E9E9;
+      margin-bottom: 20px;
+      margin-left: 0px; /* Same width as the sidebar + left position in px */
+      padding: 0px 10px;
+    }
+
+    .content {
+      background-color: rgb(255, 255, 255);
+      border-radius: 2px;
+      margin-bottom: 40px;
+      margin-left: 210px; /* Same width as the sidebar + left position in px */
+      padding: 0px 10px;
+    }
+
+    .sidenav {
+      width: 200px;
+      position: absolute;
+      z-index: 1;
+      background: #E9E9E9;
+      overflow-x: hidden;
+
+}
+
+    .sidenav a {
+      padding: 10px 10px 10px 10px;
+      text-decoration: none;
+      display: block;
+}
+
+    .crop {
+        width: 200px;
+        height: 150px;
+        overflow: hidden;
+    }
