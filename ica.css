@@ -24,6 +24,15 @@
       padding: 0px 10px;
     }
 
+    .raggedy {
+      background-color: rgb(255, 255, 255);
+      border-radius: 2px;
+      margin-bottom: 40px;
+      margin-left: 210px; /* Same width as the sidebar + left position in px */
+      padding: 0px 10px;
+      text-align: left;
+    }
+
     .sidenav {
       width: 200px;
       position: absolute;
