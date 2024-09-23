@@ -3,7 +3,7 @@
       padding: 20px;
       line-height: 1.5;
       max-width: 1000px; /* Adjust this value as needed */
-      font-family: Arial, sans-serif;
+      font-family: Arial, sans-serif; /*Arial, sans-serif; */
       font-size: 12pt;
       text-align: justify;
       text-justify: inter-word;
@@ -15,6 +15,7 @@
       margin-bottom: 20px;
       margin-left: 0px; /* Same width as the sidebar + left position in px */
       padding: 0px 10px;
+      text-align: left;
     }
 
     .content {
@@ -40,7 +41,7 @@
       z-index: 1;
       background: #E9E9E9;
       overflow-x: hidden;
-
+      text-align: left;
 }
 
     .sidenav a {
