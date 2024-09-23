@@ -7,6 +7,7 @@
       font-size: 12pt;
       text-align: justify;
       text-justify: inter-word;
+      margin-bottom: 20px;
     }
 
     .header {
@@ -19,7 +20,7 @@
     .content {
       background-color: rgb(255, 255, 255);
       border-radius: 2px;
-      margin-bottom: 40px;
+      margin-bottom: 20px;
       margin-left: 210px; /* Same width as the sidebar + left position in px */
       padding: 0px 10px;
     }
@@ -27,7 +28,7 @@
     .raggedy {
       background-color: rgb(255, 255, 255);
       border-radius: 2px;
-      margin-bottom: 40px;
+      margin-bottom: 20px;
       margin-left: 210px; /* Same width as the sidebar + left position in px */
       padding: 0px 10px;
       text-align: left;
